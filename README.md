@@ -9,9 +9,9 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Python, SQL, Java (learning)  
-- **Frameworks:** FastAPI, Flask  
-- **Databases:** MySQL, PostgreSQL  
+- **Languages:** Python, SQL (learning)  
+- **Frameworks:** FastAPI,Django  
+- **Databases:** MySQL
 - **Tools:** Git, GitHub, Docker  
 
 ---
