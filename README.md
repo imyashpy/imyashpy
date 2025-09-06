@@ -1,10 +1,9 @@
 # Hi 👋, I'm Yash Kirar  
 🚀 Backend Developer | Python • FastAPI • MySQL  
-
-- 🔭 Currently building scalable backend systems  
-- 🌱 Learning advanced databases, cloud & APIs  
+  
+- 🌱 Learning advanced databases & APIs  
 - 🎯 Goal: Work as a top backend dev in Switzerland 🇨🇭  
-- ⚡ Motto: *Code. Backend. Scale.*  
+
 
 ---
 
@@ -12,7 +11,7 @@
 - **Languages:** Python, SQL (learning)  
 - **Frameworks:** FastAPI,Django  
 - **Databases:** MySQL
-- **Tools:** Git, GitHub, Docker  
+- **Tools:** Git, GitHub
 
 ---
 
